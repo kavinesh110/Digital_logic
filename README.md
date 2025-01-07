@@ -5,7 +5,7 @@ Digital electronics is the foundation of all microprocessor-based systems found 
 programmable logic devices. Laboratory experiments provide hands-on experience with the simulator software, actual devices and circuits studied in the classroom.
 <br />
 
-<h2>Description</h2>
+<h2>Reflection</h2>
 The Digital Logic course provided me with a solid foundation in understanding the inner workings of computer systems. I learned key concepts such as binary systems, logic gates, Boolean algebra, and combinational circuits, which helped me understand how computers process information at a fundamental level.One of the most valuable aspects was designing and analyzing sequential circuits, such as flip-flops, counters, and registers. These lessons gave me insight into how memory and processing units work in real-world applications.This course has significantly enhanced my analytical thinking and prepared me for more advanced topics in computer architecture and embedded systems.
 <br />
 
